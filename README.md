@@ -29,3 +29,5 @@ In http://localhost/ you will see a "Login with facebook" button. When you click
 var idAplicationFacebook = 'put-here-the-application-id';
 
 ``````
+
+* If you want your application will be tested by other facebook users, configure your application in mode "public application"
