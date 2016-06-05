@@ -13,7 +13,7 @@ In http://localhost/ you will see a "Login with facebook" button. When you click
 
 * In https://developers.facebook.com/ sign in with your facebook account.
 
-* Create a new facebook a application.
+* Create a new facebook application.
 
 * The URL of the site will be http://localhost/
 
